@@ -26,17 +26,18 @@ If you are applying for **Freerooms**, you may optionally choose to complete the
 
 If you aren't applying for any other projects, and you are specifically interested in mobile development with Freerooms, we recommend completing the [freerooms](./freerooms/README.md) assessment. In this case you do not need to complete any other assessment.
 
-## Warchest
+### Warchest
 If you are applying for **Warchest**, you need to complete the [backend](./backend/README.md) **AND** [frontend](./frontend/README.md) tasks for all roles. Applicants who only complete one will not be considered for a position in Warchest.
 
 ### Platforms
 You will only have to complete the [platforms](./platforms/) tasks.
 
+
+
 ---
 
-> ⚠️ If you proceed to the interview stage, you may be questioned and asked to explain various aspects of your code.
-
-Please review [CHANGELOG.md](./CHANGELOG.md) for any notable changes to the technical assessment.
+> ⚠️ **Interview stage note**  
+> If you proceed to the interview stage, you may be asked to explain or walk through parts of your code and design decisions.
 
 ---
 
